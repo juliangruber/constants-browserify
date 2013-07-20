@@ -7,9 +7,9 @@
     "url" : "git://github.com/juliangruber/constants-browserify.git"
   },
   "homepage": "https://github.com/juliangruber/constants-browserify",
-  "main" : "index.js",
+  "main" : "constants.json",
   "dependencies" : {},
-  "keywords": ["constants","node", "browser", "browserify"],
+  "keywords": ["constants", "node", "browser", "browserify"],
   "author": {
     "name": "Julian Gruber",
     "email": "mail@juliangruber.com",
