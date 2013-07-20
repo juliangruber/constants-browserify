@@ -1,1 +1,1 @@
-node -pe 'require("constants")' > constants.json
+node -pe 'JSON.stringify(require("constants"), null, "  ")' > constants.json
