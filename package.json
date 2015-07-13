@@ -18,5 +18,12 @@
   "scripts": {
     "test": "node test.js"
   },
+  "contributors": [
+    {
+      "name": "James J. Womack",
+      "email": "james@womack.io",
+      "url": "http://netflix.com"
+    }
+  ],
   "license": "MIT"
 }
