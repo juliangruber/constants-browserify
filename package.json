@@ -30,5 +30,12 @@
       "url": "http://netflix.com"
     }
   ],
+  "jspm": {
+    "map": {
+      "./constants.json": {
+        "node": "@node/constants"
+      }
+    }
+  },
   "license": "MIT"
 }
