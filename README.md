@@ -29,7 +29,7 @@ With [npm](http://npmjs.org) do
 
 ```bash
 $ npm install constants-browserify
-``
+```
 
 ## Security contact information
 
